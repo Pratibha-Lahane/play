@@ -1,0 +1,41 @@
+ 2023-11-13 20:51:08,777 : INFO : Test_Login : test_Page_Title_001 : 18 : test_Page_Title_001 is started--->>
+ 2023-11-13 20:51:08,777 : INFO : Test_Login : test_Page_Title_001 : 19 : Opening Browser
+ 2023-11-13 20:51:11,196 : INFO : Test_Login : test_Page_Title_001 : 21 : Go To This Url---->>>https://opensource-demo.orangehrmlive.com/
+ 2023-11-13 20:51:20,876 : INFO : Test_Login : test_Page_Title_001 : 24 : test_Page_Title_001 is Passed..
+ 2023-11-13 20:51:20,888 : INFO : Test_Login : test_Page_Title_001 : 25 : Page Title is-->>OrangeHRM
+ 2023-11-13 20:51:21,452 : INFO : Test_Login : test_Page_Title_001 : 35 : test_Page_Title_001 is Completed...
+ 2023-11-13 20:51:26,561 : INFO : Test_Login : test_Login_002 : 41 : test_Login_002 is Started...
+ 2023-11-13 20:51:26,562 : INFO : Test_Login : test_Login_002 : 42 : Opening Browser
+ 2023-11-13 20:51:46,733 : INFO : Test_Login : test_Login_002 : 48 : Entering Username-->Admin
+ 2023-11-13 20:51:46,882 : INFO : Test_Login : test_Login_002 : 50 : Entering Password-->admin123
+ 2023-11-13 20:51:46,989 : INFO : Test_Login : test_Login_002 : 52 : Click on Login Button
+ 2023-11-13 20:53:24,821 : INFO : Test_Login : test_Page_Title_001 : 18 : test_Page_Title_001 is started--->>
+ 2023-11-13 20:53:24,823 : INFO : Test_Login : test_Page_Title_001 : 19 : Opening Browser
+ 2023-11-13 20:53:33,200 : INFO : Test_Login : test_Page_Title_001 : 21 : Go To This Url---->>>https://opensource-demo.orangehrmlive.com/
+ 2023-11-13 20:53:33,219 : INFO : Test_Login : test_Page_Title_001 : 24 : test_Page_Title_001 is Passed..
+ 2023-11-13 20:53:33,229 : INFO : Test_Login : test_Page_Title_001 : 25 : Page Title is-->>OrangeHRM
+ 2023-11-13 20:53:33,807 : INFO : Test_Login : test_Page_Title_001 : 35 : test_Page_Title_001 is Completed...
+ 2023-11-13 20:53:38,518 : INFO : Test_Login : test_Login_002 : 41 : test_Login_002 is Started...
+ 2023-11-13 20:53:38,518 : INFO : Test_Login : test_Login_002 : 42 : Opening Browser
+ 2023-11-13 20:54:00,441 : INFO : Test_Login : test_Login_002 : 48 : Entering Username-->Admin
+ 2023-11-13 20:54:00,605 : INFO : Test_Login : test_Login_002 : 50 : Entering Password-->admin123
+ 2023-11-13 20:54:02,039 : INFO : Test_Login : test_Login_002 : 52 : Click on Login Button
+ 2023-11-13 20:54:03,809 : INFO : Test_Login : test_Login_002 : 58 : Click on Menu Button
+ 2023-11-13 20:54:05,388 : INFO : Test_Login : test_Login_002 : 60 : Click on LogOut Button
+ 2023-11-13 20:54:05,389 : INFO : Test_Login : test_Login_002 : 61 : test_Login_002 is Passed.
+ 2023-11-13 20:54:05,706 : INFO : Test_Login : test_Login_002 : 71 : test_Login_002 is Completed
+ 2023-11-13 20:55:23,215 : INFO : Test_Login : test_Login_002 : 41 : test_Login_002 is Started...
+arted--->>
+ 2023-11-13 20:55:23,215 : INFO : Test_Login : test_Page_Title_001 : 19 : Opening Browser
+ 2023-11-13 20:55:23,216 : INFO : Test_Login : test_Login_002 : 42 : Opening Browser
+ 2023-11-13 20:55:25,711 : INFO : Test_Login : test_Page_Title_001 : 21 : Go To This Url---->>>https://opensource-demo.orangehrmlive.com/
+ 2023-11-13 20:55:37,953 : INFO : Test_Login : test_Page_Title_001 : 24 : test_Page_Title_001 is Passed..
+ 2023-11-13 20:55:37,965 : INFO : Test_Login : test_Page_Title_001 : 25 : Page Title is-->>OrangeHRM
+ 2023-11-13 20:55:38,087 : INFO : Test_Login : test_Page_Title_001 : 35 : test_Page_Title_001 is Completed...
+ 2023-11-13 20:55:43,084 : INFO : Test_Login : test_Login_002 : 48 : Entering Username-->Admin
+ 2023-11-13 20:55:43,208 : INFO : Test_Login : test_Login_002 : 50 : Entering Password-->admin123
+ 2023-11-13 20:55:43,295 : INFO : Test_Login : test_Login_002 : 52 : Click on Login Button
+ 2023-11-13 20:55:45,543 : INFO : Test_Login : test_Login_002 : 58 : Click on Menu Button
+ 2023-11-13 20:56:00,938 : INFO : Test_Login : test_Login_002 : 60 : Click on LogOut Button
+ 2023-11-13 20:56:00,940 : INFO : Test_Login : test_Login_002 : 61 : test_Login_002 is Passed.
+ 2023-11-13 20:56:02,321 : INFO : Test_Login : test_Login_002 : 71 : test_Login_002 is Completed
